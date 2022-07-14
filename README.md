@@ -13,7 +13,7 @@
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=kenneduu&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![](https://komarev.com/ghpvc/?username=kenneduu&label=PROFILE+VIEWS&color=blueviolet)
 
 
 
